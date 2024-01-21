@@ -2,6 +2,8 @@
 
 This is a web application that allows you to create and manage your coffee list. It was built as a challenge from [Devchallenges.io](https://devchallenges.io/).
 
+![image](https://github.com/JuanCarlos-27/coffee-list/assets/110681873/ec6df926-69ef-4399-a0a9-b53477dca056)
+
 ## Technologies Used
 
 - [Astro](https://astro.build/): A modern front-end framework for building fast websites with JavaScript, HTML, and CSS.
