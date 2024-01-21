@@ -6,8 +6,9 @@ This is a web application that allows you to create and manage your coffee list.
 
 ## Technologies Used
 
-- [Astro](https://astro.build/): A modern front-end framework for building fast websites with JavaScript, HTML, and CSS.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom user interfaces.
+- [Astro](https://astro.build/)🚀: A modern front-end framework for building fast websites with JavaScript, HTML, and CSS.
+- [Tailwind CSS](https://tailwindcss.com/)💅: A utility-first CSS framework for rapidly building custom user interfaces.
+- [React](https://reactjs.org/)⚛️: A JavaScript library for building user interfaces.
 
 ## Getting Started
 

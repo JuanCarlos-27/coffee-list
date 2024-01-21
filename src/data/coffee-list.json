@@ -1,61 +1,61 @@
 [
   {
-    "id": "d4f3e2c1-b0a9-4e8d-9c7b-6a5f4d3e2c1f",
+    "id": "1",
     "title": "Cappuccino",
     "price": 5.2,
     "badges": ["Popular"],
     "rating": 4.7,
-    "totalReviews": 65,
+    "reviews": 65,
     "image": "https://cdn.pixabay.com/photo/2016/11/29/02/10/caffeine-1866758_1280.jpg",
     "stock": 10
   },
   {
-    "id": "",
+    "id": "2",
     "title": "House Coffee",
     "price": 3.5,
-    "badges": ["Popular"],
+    "badges": ["Popular", "Hot"],
     "rating": 4.85,
-    "totalReviews": 14,
+    "reviews": 14,
     "image": "https://cdn.pixabay.com/photo/2016/11/29/04/58/coffee-1867429_1280.jpg",
     "stock": 10
   },
   {
-    "id": "",
+    "id": "3",
     "title": "Espresso",
     "price": 2.5,
     "badges": [],
     "rating": 4.9,
-    "totalReviews": 55,
+    "reviews": 55,
     "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "stock": 10
   },
   {
-    "id": "",
+    "id": "4",
     "title": "Coffee Latte",
     "price": 4.5,
     "badges": [],
     "rating": 5.0,
-    "totalReviews": 23,
+    "reviews": 23,
     "image": "https://cdn.pixabay.com/photo/2016/11/19/12/54/drink-1839134_1280.jpg",
     "stock": 10
   },
   {
-    "id": "",
+    "id": "5",
     "title": "Chocolate Coffee",
     "price": 4.65,
     "badges": [],
     "rating": 4.65,
-    "totalReviews": 122,
+    "reviews": 122,
     "image": "https://cdn.pixabay.com/photo/2016/11/29/12/45/beverage-1869598_1280.jpg",
     "stock": 0
   },
   {
-    "id": "",
+    "id": "6",
     "title": "Valentine Coffee",
     "price": 5.5,
     "badges": [],
     "rating": 0,
-    "totalReviews": 0,
+    "reviews": 0,
     "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "stock": 10
   }

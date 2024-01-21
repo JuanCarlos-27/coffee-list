@@ -1,7 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
-import coffeeData from '../data/coffee-list.json';
+import CoffeeList from '../components/CoffeeList.jsx';
 ---
 
 <Layout title="☕ Coffee ☕">
@@ -11,7 +10,7 @@ import coffeeData from '../data/coffee-list.json';
     <img
       src="/vector.svg"
       alt="Vector header"
-      class="absolute -right-16 -z-10 md:top-9 md:right-60 "
+      class="absolute -right-16 -z-10 md:top-9 md:right-60"
     />
 
     <h1 class="text-4xl font-bold text-center mt-10">Our Collection</h1>
@@ -20,28 +19,7 @@ import coffeeData from '../data/coffee-list.json';
       and origins, expertly roasted in small batches and shipped fresh weekly.
     </p>
 
-    <article class="flex gap-x-2 text-sm font-semibold">
-      <button class="bg-[#6F757C] text-white/80 px-4 py-2 rounded-md">All Products</button>
-      <button class="px-4 py-2 rounded-md">Available Now</button>
-    </article>
-
-    <article class="grid gap-20 lg:grid-cols-2 mt-6 xl:grid-cols-3 xl:gap-10">
-      {
-        coffeeData.map((coffee) => 
-           (
-            <Card 
-              title={coffee.title} 
-              imageRef={coffee.image},
-              price={coffee.price},
-              rating={coffee.rating},
-              reviews={coffee.totalReviews},
-              stock={coffee.stock},
-              badges={coffee.badges}
-            />
-           )
-        )
-      }
-    </article>
+    <CoffeeList client:idle />
   </main>
 
   <style>
