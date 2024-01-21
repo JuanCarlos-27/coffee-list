@@ -6,7 +6,7 @@
     "badges": ["Popular"],
     "rating": 4.7,
     "reviews": 65,
-    "image": "https://cdn.pixabay.com/photo/2016/11/29/02/10/caffeine-1866758_1280.jpg",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/cappuccino.jpg",
     "stock": 10
   },
   {
@@ -16,7 +16,7 @@
     "badges": ["Popular", "Hot"],
     "rating": 4.85,
     "reviews": 14,
-    "image": "https://cdn.pixabay.com/photo/2016/11/29/04/58/coffee-1867429_1280.jpg",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/house-coffee.jpg",
     "stock": 10
   },
   {
@@ -26,7 +26,7 @@
     "badges": [],
     "rating": 4.9,
     "reviews": 55,
-    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/espresso.jpg",
     "stock": 10
   },
   {
@@ -36,7 +36,7 @@
     "badges": [],
     "rating": 5.0,
     "reviews": 23,
-    "image": "https://cdn.pixabay.com/photo/2016/11/19/12/54/drink-1839134_1280.jpg",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/coffee-latte.jpg",
     "stock": 10
   },
   {
@@ -46,7 +46,7 @@
     "badges": [],
     "rating": 4.65,
     "reviews": 122,
-    "image": "https://cdn.pixabay.com/photo/2016/11/29/12/45/beverage-1869598_1280.jpg",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/chocolate-coffee.jpg",
     "stock": 0
   },
   {
@@ -56,7 +56,7 @@
     "badges": [],
     "rating": 0,
     "reviews": 0,
-    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
     "stock": 10
   }
 ]
