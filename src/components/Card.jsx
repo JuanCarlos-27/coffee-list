@@ -10,7 +10,7 @@ export default function Card({ title, image, price, rating, reviews, stock, badg
         <img
           src={image}
           alt={`Image ilustrative of our ${title}`}
-          className="rounded-3xl aspect-auto h-[180px] w-full object-cover"
+          className="rounded-3xl aspect-auto h-[160px] w-full object-cover"
         />
       </header>
       <section className="grid grid-cols-[1fr,100px] grid-rows-2 items-center">

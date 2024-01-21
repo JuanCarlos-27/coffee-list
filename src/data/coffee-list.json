@@ -13,7 +13,7 @@
     "id": "2",
     "title": "House Coffee",
     "price": 3.5,
-    "badges": ["Popular", "Hot"],
+    "badges": ["Popular"],
     "rating": 4.85,
     "reviews": 14,
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/house-coffee.jpg",

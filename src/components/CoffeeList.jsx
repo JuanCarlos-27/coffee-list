@@ -23,12 +23,12 @@ export default function CoffeeList() {
       <article className="flex gap-x-2 text-sm font-semibold">
         <button
           onClick={selectAll}
-          className="bg-[#6F757C] text-white/80 px-5 py-2 rounded-md hover:bg-gray-600 transition-all">
+          className="bg-[#6F757C] text-white/80 px-5 py-1 rounded-md hover:bg-gray-600 transition-all">
           All Products
         </button>
         <button
           onClick={selectAvailable}
-          className="px-4 py-2 rounded-md hover:ring-2 ring-[#6F757C] transition-all">
+          className="px-5 py-1 rounded-md hover:ring-2 ring-[#6F757C] transition-all">
           Available Now
         </button>
       </article>
